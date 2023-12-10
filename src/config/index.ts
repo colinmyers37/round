@@ -1,3 +1,6 @@
+/**
+ * Represents the product categories.
+ */
 export const PRODUCT_CATEGORIES = [
   {
     label: "Tracking",
